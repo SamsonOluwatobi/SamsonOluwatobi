@@ -7,7 +7,7 @@
   
   *Building the bridge between low-level efficiency and high-level utility.*
   
-  [Portfolio Website](#) • [LinkedIn](#) • [Email Me](mailto:your-email@example.com)
+  [Portfolio Website](#) • [LinkedIn](#) • [Email Me](mailto:samtob2002@gmail.com)
 </div>
 
 ---
@@ -43,3 +43,5 @@ I’m a developer passionate about **robust backends** and **efficient algorithm
   <img src="https://github-readme-stats.vercel.app/api?username=SamsonOluwatobi&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamsonOluwatobi&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
 </div>
+
+![Snake animation](https://github.com/SamsonOluwatobi/SamsonOluwatobi/blob/output/github-contribution-grid-snake.svg)
