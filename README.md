@@ -7,7 +7,7 @@
   
   *Building the bridge between low-level efficiency and high-level utility.*
   
-  [Portfolio Website](#) • [LinkedIn](#) • [Email Me](mailto:samtob2002@gmail.com)
+  [Portfolio Website](https://www.samsonoluwatobi.space/) • [LinkedIn](https://www.linkedin.com/in/lana-samson) • [Email Me](mailto:samtob2002@gmail.com)
 </div>
 
 ---
